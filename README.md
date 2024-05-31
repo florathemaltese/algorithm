@@ -1,4 +1,4 @@
-## Algorithm Collection
+# Algorithm Collection
 
 # Overview
 This repository contains a collection of various algorithms implemented in Java. Each algorithm is organized into its own directory and includes a detailed implementation. The purpose of this collection is to provide a comprehensive set of examples for different algorithmic challenges and use cases.
