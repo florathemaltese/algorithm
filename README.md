@@ -1,9 +1,9 @@
-# Algorithm Collection
+## Algorithm Collection
 
-Overview
+# Overview
 This repository contains a collection of various algorithms implemented in Java. Each algorithm is organized into its own directory and includes a detailed implementation. The purpose of this collection is to provide a comprehensive set of examples for different algorithmic challenges and use cases.
 
-Algorithms Included
+# Algorithms Included
 BinaryTreeFlipper: Flips a binary tree in a specific manner, changing its structure.
 CountOccurrences: Counts the occurrences of elements in a data structure.
 MazeShortestPathSolver: Finds the shortest path in a maze from a starting point to a destination.
@@ -15,8 +15,8 @@ UnivalSubtreeCounter: Counts the number of unival (single-value) subtrees in a b
 FileReadWriter: Provides functionality to read from and write to files.
 WeightedGrade: Calculates weighted grades based on provided criteria.
 
-Technologies Used
+# Technologies Used
 Programming Language: Java
 
-License
+# License
 This project is licensed under the MIT License - see the LICENSE file for details.
